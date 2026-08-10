@@ -44,6 +44,20 @@ a:hover { color: var(--muted); }
 .topbar nav a { color: var(--muted); }
 .topbar nav a:hover { color: var(--text); }
 
+.contact-page {
+  max-width: var(--photo-max);
+  min-height: 55vh;
+  margin: 0 auto;
+  padding: 50px 30px 100px;
+}
+
+.contact-page h2 {
+  font-family: "Archivo Black", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
 /* Masonry via CSS columns, matching the template: 3 columns, ~48px gutters, natural aspect ratios. */
 .gallery {
   columns: 3;
@@ -137,6 +151,8 @@ footer {
 .lightbox-close:hover { color: var(--muted); }
 
 @media (max-width: 700px) {
+  .contact-page { padding: 30px 20px 80px; }
+  .contact-page h2 { font-size: 26px; }
   .gallery {
     columns: 2;
     column-gap: 20px;
