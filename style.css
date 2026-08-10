@@ -60,6 +60,10 @@ a:hover { color: var(--muted); }
   letter-spacing: 0.02em;
 }
 
+.about-page h2 {
+  color: #f2e8d5;
+}
+
 .contact-details {
   margin-top: 20px;
 }
