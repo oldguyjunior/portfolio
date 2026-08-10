@@ -58,6 +58,10 @@ a:hover { color: var(--muted); }
   letter-spacing: 0.02em;
 }
 
+.contact-details {
+  margin-top: 20px;
+}
+
 /* Masonry via CSS columns, matching the template: 3 columns, ~48px gutters, natural aspect ratios. */
 .gallery {
   columns: 3;
