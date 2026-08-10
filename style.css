@@ -62,6 +62,12 @@ a:hover { color: var(--muted); }
   margin-top: 20px;
 }
 
+.contact-email {
+  color: #c75b6a;
+  font-weight: 700;
+  font-style: italic;
+}
+
 /* Masonry via CSS columns, matching the template: 3 columns, ~48px gutters, natural aspect ratios. */
 .gallery {
   columns: 3;
