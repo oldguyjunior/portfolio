@@ -37,7 +37,6 @@ a:hover { color: var(--muted); }
   font-size: 56px;
   font-weight: 400;
   letter-spacing: 0.02em;
-  text-transform: uppercase;
 }
 
 .topbar nav ul { list-style: none; }
