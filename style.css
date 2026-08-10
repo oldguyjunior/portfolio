@@ -70,6 +70,19 @@ a:hover { color: var(--muted); }
   font-style: italic;
 }
 
+.about-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  align-items: start;
+  gap: 48px;
+}
+
+.about-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 /* Masonry via CSS columns, matching the template: 3 columns, ~48px gutters, natural aspect ratios. */
 .gallery {
   columns: 3;
@@ -167,6 +180,10 @@ footer {
   .about-page { padding: 30px 20px 80px; }
   .contact-page h2,
   .about-page h2 { font-size: 26px; }
+  .about-layout {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
   .gallery {
     columns: 2;
     column-gap: 20px;
