@@ -118,7 +118,8 @@ a:hover { color: var(--muted); }
 .gallery-entry figcaption {
   margin-top: 10px;
   color: var(--text);
-  font-size: 12px;
+  font-size: 14px;
+  font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -167,7 +168,8 @@ footer {
 .lightbox figcaption {
   color: var(--text);
   margin-top: 14px;
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: 700;
 }
 
 .lightbox-close {
