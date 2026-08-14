@@ -2,13 +2,12 @@
 // navigable collection; individual portfolio images open on their own.
 const galleries = {
   marfa: [
-    { src: 'photos/photo-01.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
+    { src: 'photos/marfa/marfa-06.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-01.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-02.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-03.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-04.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-05.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
-    { src: 'photos/marfa/marfa-06.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-07.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-08.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-09.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
