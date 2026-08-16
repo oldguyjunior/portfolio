@@ -194,7 +194,7 @@ footer {
 .lightbox-nav {
   position: static;
   border: 0;
-  background: rgba(4, 24, 18, 0.55);
+  background: transparent;
   color: var(--text);
   font-size: 38px;
   font-weight: 700;
