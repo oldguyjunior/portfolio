@@ -61,6 +61,11 @@ a:hover { color: var(--muted); }
 }
 
 .about-page h2 {
+  color: var(--text);
+}
+
+.about-copy p {
+  margin-top: 20px;
   color: #f2e8d5;
 }
 
