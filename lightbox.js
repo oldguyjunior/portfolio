@@ -8,11 +8,9 @@ const galleries = {
     { src: 'photos/marfa/marfa-13.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-10.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-04.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
-    { src: 'photos/marfa/marfa-11.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-05.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-03.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-06.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
-    { src: 'photos/marfa/marfa-12.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-07.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' }
   ]
 };
