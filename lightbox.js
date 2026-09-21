@@ -12,6 +12,10 @@ const galleries = {
     { src: 'photos/marfa/marfa-03.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-06.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' },
     { src: 'photos/marfa/marfa-07.jpeg', alt: 'Marfa, Texas, photographed by Joseph Maya' }
+  ],
+  mickAndTheDoor: [
+    { src: 'photos/mick-and-the-door/mick-and-the-door-01.jpeg', alt: 'Mick And The Door, photographed by Joseph Maya' },
+    { src: 'photos/mick-and-the-door/mick-and-the-door-02.jpeg', alt: 'Mick And The Door, photographed by Joseph Maya' }
   ]
 };
 
