@@ -16,6 +16,10 @@ const galleries = {
   mickAndTheDoor: [
     { src: 'photos/mick-and-the-door/mick-and-the-door-01.jpeg', alt: 'Mick And The Door, photographed by Joseph Maya' },
     { src: 'photos/mick-and-the-door/mick-and-the-door-02.jpeg', alt: 'Mick And The Door, photographed by Joseph Maya' }
+  ],
+  edOnClinton: [
+    { src: 'photos/ed-on-clinton/ed-on-clinton-01.jpeg', alt: 'Ed on Clinton, photographed by Joseph Maya' },
+    { src: 'photos/ed-on-clinton/ed-on-clinton-02.jpeg', alt: 'Ed on Clinton, photographed by Joseph Maya' }
   ]
 };
 
